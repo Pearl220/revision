@@ -2,12 +2,13 @@ package exam;
 
 public class abc {
 	
-	int moves, cabbages;
+	int moves, cabbages,mush;
 	
-	abc(int moves, int cabbages)
+	abc(int moves, int cabbages,int mush)
 	{
 		this.moves=moves;
 		this.cabbages=cabbages;
+		this.mush=mush;
 		
 	}
 }
