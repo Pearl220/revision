@@ -11,4 +11,8 @@ public class abc {
 		this.mush=mush;
 		
 	}
+	int get_moves()
+	{
+		return moves;
+	}
 }
